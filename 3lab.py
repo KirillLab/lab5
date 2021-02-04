@@ -110,7 +110,7 @@ dictionary = list_from_file(path)
 print("Исходные данные:")
 print_data(dictionary)
 
-print("Сортировка данных по ключу. Введите ключ:")
+print("Сортировка данных по ключу. Введите пожалуйста ключ:")
 sort_key(dictionary, input())
 number_sort(dictionary)
 dictionary = input_data(dictionary)
